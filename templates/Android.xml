@@ -1,0 +1,12 @@
+<templateSet group="Android">
+  <template name="todomr" value="// TODOMR $date$ $todo$" description="TODO MR" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSON" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,532 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.12" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.base" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.desktop" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.instrument" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.logging" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.naming" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.net.http" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.prefs" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.scripting" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.se" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.sql" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.xml" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.aot" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.attach" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.net" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.pack" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8815526/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 30 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-30" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-30" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <version value="1.5.10-release-894" />
+      <homePath value="C:\Program Files\Android\Android Studio\plugins\Kotlin\kotlinc" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-28" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-23/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-23/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-23" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 26 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-26/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-26/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-26" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="version 1.8.0_291" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_291" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_291/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Embedded JDK" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.12" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.base" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.desktop" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.instrument" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.logging" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.naming" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.net.http" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.prefs" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.scripting" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.se" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.sql" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.xml" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.aot" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.attach" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.net" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.pack" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android Studio java home" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.12" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.base" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.desktop" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.instrument" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.logging" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.naming" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.net.http" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.prefs" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.scripting" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.se" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.sql" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.xml" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.aot" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.attach" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.management" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.net" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.pack" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/Users/michalrub/AppData/Local/JetBrains/Toolbox/apps/AndroidStudio/ch-0/212.5712.43.2112.8512546/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 31 Platform" />
+      <type value="Android SDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-31/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-31/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-31" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-31" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 32 Platform" />
+      <type value="Android SDK" />
+      <version value="version 11.0.11" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-32" />
+    </jdk>
+  </component>
+</application>
