@@ -1,0 +1,103 @@
+<templateSet group="AndroidXML - MR">
+  <template name="cse" value="app:layout_constraintStart_toEndOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="css" value="app:layout_constraintStart_toStartOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="ces" value="app:layout_constraintEnd_toStartOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="cee" value="app:layout_constraintEnd_toEndOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="ctb" value="app:layout_constraintTop_toBottomOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="ctt" value="app:layout_constraintTop_toTopOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="cbt" value="app:layout_constraintBottom_toTopOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="cbb" value="app:layout_constraintBottom_toBottomOf=&quot;$END$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="tmbd" value="Timber.d(&quot;MRMR $END$&quot;)" description="Timber debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="trc" value="try {&#10;    $CODE$&#10;} catch(e: Throwable) {&#10;    $END$&#10;}" description="Try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="tst" value="@Test&#10;fun `$NAME$`() $COROUTINES$ {&#10;    $BODY$&#10;}" description="Unit test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COROUTINES" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="mck" value="@Mock&#10;private lateinit var $END$" description="Mock" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="tmbe" value="Timber.e(&quot;MRMR $END$&quot;)" description="Timber debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="prvv" value="private val $NAME$: $TYPE$" description="private val" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="prlv" value="private lateinit var $NAME$: $TYPE$" description="private lateinit var" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="mckin" value="MockitoAnnotations.openMocks(this)" description="Mockito init" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
