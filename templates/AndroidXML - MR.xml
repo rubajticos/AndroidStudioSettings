@@ -100,4 +100,14 @@
       <option name="KOTLIN_COMMENT" value="false" />
     </context>
   </template>
+  <template name=",su" value="_state.value = _state.value.copy($END$)" description="Update state" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name=",nsu" value="_navigationState.value = _navigationState.value.copy($END$)" description="Navigation state update" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
