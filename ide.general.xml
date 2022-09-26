@@ -9,4 +9,11 @@
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="SendFeedbackPanel" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
