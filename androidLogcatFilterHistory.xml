@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="isRestartAfterUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="isRestartAfterUpdate" />
         <option value="sendFinishResult" />
         <option value="err" />
         <option value="pl.novelpay.ntmsagent" />
