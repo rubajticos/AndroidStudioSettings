@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="isRestartAfterUpdate" />
+    <option name="mostRecentlyUsed" value="UpdateNotifyMessageListener" />
     <option name="nonFavorites">
       <list>
+        <option value="UpdateNotifyMessageListener" />
         <option value="isRestartAfterUpdate" />
         <option value="sendFinishResult" />
         <option value="err" />
