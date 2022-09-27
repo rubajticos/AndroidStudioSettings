@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ntmsagent" />
+    <option name="mostRecentlyUsed" value="coupapp" />
     <option name="nonFavorites">
       <list>
+        <option value="coupapp" />
         <option value="ntmsagent" />
         <option value="MAINTENAN" />
         <option value="Next update scheduled" />
