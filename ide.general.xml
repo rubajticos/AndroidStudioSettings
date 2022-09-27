@@ -13,6 +13,7 @@
       <map>
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+        <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
       </map>
     </option>
   </component>
