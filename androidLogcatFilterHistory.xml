@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ntmsagent" />
+    <option name="mostRecentlyUsed" value="MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="MRMR" />
         <option value="ntmsagent" />
         <option value="coupapp" />
         <option value="MAINTENAN" />
@@ -13,7 +14,6 @@
         <option value="sendFinishResult" />
         <option value="err" />
         <option value="pl.novelpay.ntmsagent" />
-        <option value="MRMR" />
         <option value="packapackage:mine " />
         <option value="packapackage:mine" />
         <option value="package:mine" />
