@@ -115,7 +115,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="phut" value="    @Test&#10;    fun `when Resumed event received should register physical keyboard listener`() {&#10;        viewModel.onUiEvent($CONTRACT$.UiEvent.Resumed)&#10;&#10;        verify(physicalKeyboard).registerListener(any())&#10;    }&#10;&#10;    @Test&#10;    fun `when Paused event received should register physical keyboard listener`() {&#10;        viewModel.onUiEvent($CONTRACT$.UiEvent.Paused)&#10;&#10;        verify(physicalKeyboard).unregisterListener(any())&#10;    }" toReformat="false" toShortenFQNames="true">
+  <template name="phut" value="    @Test&#10;    fun `when Resumed event received should register physical keyboard listener`() {&#10;        viewModel.onUiEvent($CONTRACT$.UiEvent.Resumed)&#10;&#10;        verify(physicalKeyboard).registerListener(any())&#10;    }&#10;&#10;    @Test&#10;    fun `when Paused event received should register physical keyboard listener`() {&#10;        viewModel.onUiEvent($CONTRACT$.UiEvent.Paused)&#10;&#10;        verify(physicalKeyboard).unregisterListener(any())&#10;    }" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CONTRACT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
