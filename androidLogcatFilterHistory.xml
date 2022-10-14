@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR" />
+    <option name="mostRecentlyUsed" value="error" />
     <option name="nonFavorites">
       <list>
+        <option value="error" />
         <option value="MRMR" />
+        <option value="Firebase" />
+        <option value="firebase" />
         <option value="ntmsagent" />
         <option value="coupapp" />
         <option value="MAINTENAN" />
