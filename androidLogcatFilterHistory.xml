@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="MRMR" />
+        <option value="Firebase" />
         <option value="mrmr" />
         <option value="firebase" />
         <option value="error" />
-        <option value="Firebase" />
         <option value="ntmsagent" />
         <option value="coupapp" />
         <option value="MAINTENAN" />
