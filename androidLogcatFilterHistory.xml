@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  MRMR" />
         <option value="package:mine MRMR" />
         <option value="MRMR" />
@@ -22,9 +23,6 @@
         <option value="UpdateNotifyMessageListener" />
         <option value="MRMR | pl.novelpay.ntmsagent" />
         <option value="isRestartAfterUpdate" />
-        <option value="sendFinishResult" />
-        <option value="err" />
-        <option value="pl.novelpay.ntmsagent" />
       </list>
     </option>
   </component>
