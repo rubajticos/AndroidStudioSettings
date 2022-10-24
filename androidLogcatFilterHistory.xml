@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="MRMR" />
+        <option value="package:mine " />
+        <option value="package:mine" />
         <option value="2_07" />
         <option value="MRMR | Q25" />
         <option value="Firebase" />
@@ -21,7 +23,6 @@
         <option value="err" />
         <option value="pl.novelpay.ntmsagent" />
         <option value="packapackage:mine " />
-        <option value="packapackage:mine" />
       </list>
     </option>
   </component>
