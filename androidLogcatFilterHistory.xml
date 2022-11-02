@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR | package:mine " />
+    <option name="mostRecentlyUsed" value="PayappCashierClient" />
     <option name="nonFavorites">
       <list>
+        <option value="PayappCashierClient" />
         <option value="MRMR | package:mine " />
         <option value="package:mine  " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="MAINTENAN" />
         <option value="Next update scheduled" />
         <option value="UpdateNotifyMessageListener" />
-        <option value="MRMR | pl.novelpay.ntmsagent" />
       </list>
     </option>
   </component>
