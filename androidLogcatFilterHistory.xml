@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR" />
+    <option name="mostRecentlyUsed" value="pl.pep.mngapp" />
     <option name="nonFavorites">
       <list>
+        <option value="pl.pep.mngapp" />
         <option value="MRMR" />
         <option value="PayappCashierClient" />
         <option value="MRMR | package:mine " />
@@ -22,7 +23,6 @@
         <option value="coupapp" />
         <option value="MAINTENAN" />
         <option value="Next update scheduled" />
-        <option value="UpdateNotifyMessageListener" />
       </list>
     </option>
   </component>
