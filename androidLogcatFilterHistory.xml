@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  File" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="pin" />
         <option value="package:mine  File" />
         <option value="File" />
         <option value="File hash" />
@@ -12,7 +14,6 @@
         <option value="PayappCashierClient" />
         <option value="MRMR | package:mine " />
         <option value="package:mine  " />
-        <option value="package:mine " />
         <option value="package:mine  MRMR" />
         <option value="package:mine MRMR" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="Firebase" />
         <option value="mrmr" />
         <option value="firebase" />
-        <option value="error" />
       </list>
     </option>
   </component>
