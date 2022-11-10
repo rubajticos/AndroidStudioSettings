@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine  File" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  File" />
+        <option value="File" />
+        <option value="File hash" />
         <option value="MRMR" />
         <option value="pinpad" />
         <option value="pl.pep.mngapp" />
@@ -20,9 +23,6 @@
         <option value="mrmr" />
         <option value="firebase" />
         <option value="error" />
-        <option value="ntmsagent" />
-        <option value="coupapp" />
-        <option value="MAINTENAN" />
       </list>
     </option>
   </component>
