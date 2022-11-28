@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MRMR" />
+        <option value="package:mine  onReceive" />
         <option value="package:mine  MRMR" />
         <option value="package:mine " />
-        <option value="package:mine MRMR" />
         <option value="package:mine  " />
         <option value="package:mine Problem with toggling" />
         <option value="pin" />
@@ -22,7 +23,6 @@
         <option value="2_07" />
         <option value="MRMR | Q25" />
         <option value="Firebase" />
-        <option value="mrmr" />
       </list>
     </option>
   </component>
