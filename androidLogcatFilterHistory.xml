@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine MRMR" />
+        <option value="package:mine " />
         <option value="ECR" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine Automatic" />
         <option value="package:mine  onReceive" />
         <option value="package:mine  MRMR" />
