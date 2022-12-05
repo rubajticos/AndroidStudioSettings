@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ECR" />
+    <option name="mostRecentlyUsed" value="package:mine MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MRMR" />
         <option value="ECR" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine Automatic" />
-        <option value="package:mine MRMR" />
         <option value="package:mine  onReceive" />
         <option value="package:mine  MRMR" />
         <option value="package:mine  " />
