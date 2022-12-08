@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0822018251" />
+          </Key>
+        </key>
+        <name value="PAX A920" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1240324134" />
+          </Key>
+        </key>
+        <name value="PAX A80" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

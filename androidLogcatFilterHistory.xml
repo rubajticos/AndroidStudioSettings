@@ -1,29 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine pinpad" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine pinpad" />
+        <option value="package:mine MRMR" />
+        <option value="package:mine " />
+        <option value="ECR" />
         <option value="package:mine" />
+        <option value="package:mine Automatic" />
+        <option value="package:mine  onReceive" />
+        <option value="package:mine  MRMR" />
+        <option value="package:mine  " />
+        <option value="package:mine Problem with toggling" />
+        <option value="pin" />
+        <option value="package:mine  File" />
+        <option value="File" />
+        <option value="File hash" />
         <option value="MRMR" />
-        <option value="2_07" />
-        <option value="MRMR | Q25" />
-        <option value="Firebase" />
-        <option value="mrmr" />
-        <option value="firebase" />
-        <option value="error" />
-        <option value="ntmsagent" />
-        <option value="coupapp" />
-        <option value="MAINTENAN" />
-        <option value="Next update scheduled" />
-        <option value="UpdateNotifyMessageListener" />
-        <option value="MRMR | pl.novelpay.ntmsagent" />
-        <option value="isRestartAfterUpdate" />
-        <option value="sendFinishResult" />
-        <option value="err" />
-        <option value="pl.novelpay.ntmsagent" />
-        <option value="packapackage:mine " />
-        <option value="packapackage:mine" />
-        <option value="package:mine" />
+        <option value="pinpad" />
+        <option value="pl.pep.mngapp" />
+        <option value="PayappCashierClient" />
+        <option value="MRMR | package:mine " />
+        <option value="MRMR" />
       </list>
     </option>
   </component>

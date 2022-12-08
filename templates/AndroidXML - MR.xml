@@ -121,4 +121,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="prf" value="private fun $NAME$($ARGS$) {&#10;   $END$&#10;}" description="private fun" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
