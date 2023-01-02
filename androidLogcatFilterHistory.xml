@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pinpad" />
+    <option name="mostRecentlyUsed" value="package:mine Q25Pinpad | MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine pinpad" />
-        <option value="package:mine MRMR" />
-        <option value="package:mine " />
-        <option value="ECR" />
+        <option value="package:mine Q25Pinpad | MRMR" />
+        <option value="package:mine Q25Pinpad " />
         <option value="package:mine" />
+        <option value="  MRMR" />
+        <option value="ECR" />
+        <option value="package:mine MRMR" />
+        <option value="package:mine pinpad" />
+        <option value="package:mine " />
         <option value="package:mine Automatic" />
         <option value="package:mine  onReceive" />
         <option value="package:mine  MRMR" />
@@ -20,9 +23,6 @@
         <option value="MRMR" />
         <option value="pinpad" />
         <option value="pl.pep.mngapp" />
-        <option value="PayappCashierClient" />
-        <option value="MRMR | package:mine " />
-        <option value="MRMR" />
       </list>
     </option>
   </component>
