@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR" />
-    <option name="mostRecentlyUsed" value="MRMR " />
+    <option name="mostRecentlyUsed" value="package:mine  pinpad" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  pinpad" />
+        <option value="package:mine " />
         <option value="package:mine MRMR" />
         <option value="MRMR " />
         <option value="MRMR" />
@@ -15,7 +16,6 @@
         <option value="  MRMR" />
         <option value="ECR" />
         <option value="package:mine pinpad" />
-        <option value="package:mine " />
         <option value="package:mine Automatic" />
         <option value="package:mine  onReceive" />
         <option value="package:mine  MRMR" />
@@ -23,7 +23,6 @@
         <option value="package:mine Problem with toggling" />
         <option value="pin" />
         <option value="package:mine  File" />
-        <option value="File" />
       </list>
     </option>
   </component>
