@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  MRMR" />
+    <option name="mostRecentlyUsed" value="MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="MRMR" />
         <option value="package:mine  MRMR" />
         <option value="package:mine  pinpad" />
         <option value="package:mine " />
         <option value="package:mine MRMR" />
         <option value="MRMR " />
-        <option value="MRMR" />
         <option value="package:mine Q25Pinpad | MRMR | pin pad" />
         <option value="package:mine consumer" />
         <option value="package:mine" />
