@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR" />
+    <option name="mostRecentlyUsed" value="MRMR | PepBridge" />
     <option name="nonFavorites">
       <list>
+        <option value="MRMR | PepBridge" />
         <option value="MRMR" />
         <option value="package:mine  MRMR" />
         <option value="package:mine  pinpad" />
@@ -22,7 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine Problem with toggling" />
         <option value="pin" />
-        <option value="package:mine  File" />
       </list>
     </option>
   </component>
