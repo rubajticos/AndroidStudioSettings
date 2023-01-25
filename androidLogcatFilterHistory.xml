@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR | PepBridge" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="pl.pep.payapp.qa | Timeout" />
+        <option value="pl.pep.payapp.qa" />
         <option value="MRMR | PepBridge" />
         <option value="MRMR" />
         <option value="package:mine  MRMR" />
@@ -21,8 +23,6 @@
         <option value="package:mine Automatic" />
         <option value="package:mine  onReceive" />
         <option value="package:mine  " />
-        <option value="package:mine Problem with toggling" />
-        <option value="pin" />
       </list>
     </option>
   </component>
