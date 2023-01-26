@@ -6,5 +6,6 @@
     <mask>*Test.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>gradle.properties</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
