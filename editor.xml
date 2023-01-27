@@ -23,6 +23,7 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
   <component name="TodoConfiguration">
