@@ -1,17 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MRMR" />
+        <option value="package:mine " />
         <option value="MRMR" />
         <option value="package:mine IODevi" />
-        <option value="package:mine " />
         <option value="pl.pep.payapp.qa | Timeout" />
         <option value="pl.pep.payapp.qa" />
         <option value="MRMR | PepBridge" />
         <option value="package:mine  MRMR" />
         <option value="package:mine  pinpad" />
-        <option value="package:mine MRMR" />
         <option value="MRMR " />
         <option value="package:mine Q25Pinpad | MRMR | pin pad" />
         <option value="package:mine consumer" />
