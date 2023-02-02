@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="API access" />
     <option name="nonFavorites">
       <list>
+        <option value="API access" />
         <option value="package:mine " />
         <option value="package:mine MRMR" />
         <option value="MRMR" />
@@ -22,7 +23,6 @@
         <option value="ECR" />
         <option value="package:mine pinpad" />
         <option value="package:mine Automatic" />
-        <option value="package:mine  onReceive" />
       </list>
     </option>
   </component>
