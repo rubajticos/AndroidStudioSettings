@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="API access" />
     <option name="nonFavorites">
       <list>
-        <option value="API access" />
         <option value="package:mine " />
+        <option value="API access" />
         <option value="package:mine MRMR" />
         <option value="MRMR" />
         <option value="package:mine IODevi" />
