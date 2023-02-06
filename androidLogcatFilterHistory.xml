@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="MRMR" />
         <option value="package:mine " />
         <option value="API access" />
         <option value="package:mine MRMR" />
-        <option value="MRMR" />
         <option value="package:mine IODevi" />
         <option value="pl.pep.payapp.qa | Timeout" />
         <option value="pl.pep.payapp.qa" />
