@@ -1,10 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR " />
+    <option name="mostRecentlyUsed" value="MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="MRMR " />
         <option value="MRMR" />
+        <option value="package:mine " />
+        <option value="API access" />
+        <option value="package:mine MRMR" />
+        <option value="package:mine IODevi" />
+        <option value="pl.pep.payapp.qa | Timeout" />
+        <option value="pl.pep.payapp.qa" />
+        <option value="MRMR | PepBridge" />
+        <option value="package:mine  MRMR" />
+        <option value="package:mine  pinpad" />
+        <option value="MRMR " />
         <option value="package:mine Q25Pinpad | MRMR | pin pad" />
         <option value="package:mine consumer" />
         <option value="package:mine" />
@@ -12,17 +21,8 @@
         <option value="package:mine Q25Pinpad " />
         <option value="  MRMR" />
         <option value="ECR" />
-        <option value="package:mine MRMR" />
         <option value="package:mine pinpad" />
-        <option value="package:mine " />
         <option value="package:mine Automatic" />
-        <option value="package:mine  onReceive" />
-        <option value="package:mine  MRMR" />
-        <option value="package:mine  " />
-        <option value="package:mine Problem with toggling" />
-        <option value="pin" />
-        <option value="package:mine  File" />
-        <option value="File" />
       </list>
     </option>
   </component>
