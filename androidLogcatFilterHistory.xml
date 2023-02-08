@@ -4,9 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="MRMR" />
+        <option value="IPC" />
+        <option value="package:mine MRMR" />
         <option value="package:mine " />
         <option value="API access" />
-        <option value="package:mine MRMR" />
         <option value="package:mine IODevi" />
         <option value="pl.pep.payapp.qa | Timeout" />
         <option value="pl.pep.payapp.qa" />
@@ -22,7 +23,6 @@
         <option value="  MRMR" />
         <option value="ECR" />
         <option value="package:mine pinpad" />
-        <option value="package:mine Automatic" />
       </list>
     </option>
   </component>
