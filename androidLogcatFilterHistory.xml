@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MRMR" />
+    <option name="mostRecentlyUsed" value="ISO" />
     <option name="nonFavorites">
       <list>
+        <option value="ISO" />
         <option value="MRMR" />
         <option value="IPC" />
         <option value="package:mine MRMR" />
@@ -22,7 +23,6 @@
         <option value="package:mine Q25Pinpad " />
         <option value="  MRMR" />
         <option value="ECR" />
-        <option value="package:mine pinpad" />
       </list>
     </option>
   </component>
