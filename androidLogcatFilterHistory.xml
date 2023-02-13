@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ISO" />
+    <option name="mostRecentlyUsed" value="package:mine MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MRMR" />
+        <option value="ASM" />
+        <option value="package:mine | pl.pep.mngapp" />
         <option value="ISO" />
         <option value="MRMR" />
         <option value="IPC" />
-        <option value="package:mine MRMR" />
         <option value="package:mine " />
         <option value="API access" />
         <option value="package:mine IODevi" />
@@ -21,8 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine Q25Pinpad | MRMR" />
         <option value="package:mine Q25Pinpad " />
-        <option value="  MRMR" />
-        <option value="ECR" />
       </list>
     </option>
   </component>
