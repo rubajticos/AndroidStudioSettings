@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="pl.novelpay.ntmsagent" />
     <option name="nonFavorites">
       <list>
+        <option value="pl.novelpay.ntmsagent" />
+        <option value="pl.novelpay." />
         <option value="package:mine MRMR" />
         <option value="ASM" />
         <option value="package:mine | pl.pep.mngapp" />
@@ -21,8 +23,6 @@
         <option value="package:mine Q25Pinpad | MRMR | pin pad" />
         <option value="package:mine consumer" />
         <option value="package:mine" />
-        <option value="package:mine Q25Pinpad | MRMR" />
-        <option value="package:mine Q25Pinpad " />
       </list>
     </option>
   </component>
