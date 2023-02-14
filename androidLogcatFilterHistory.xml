@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="pl.novelpay.ntmsagent" />
         <option value="pl.novelpay." />
         <option value="package:mine MRMR" />
@@ -11,7 +11,6 @@
         <option value="ISO" />
         <option value="MRMR" />
         <option value="IPC" />
-        <option value="package:mine " />
         <option value="API access" />
         <option value="package:mine IODevi" />
         <option value="pl.pep.payapp.qa | Timeout" />
