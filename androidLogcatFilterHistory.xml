@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR" />
+    <option name="mostRecentlyUsed" value="MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MRMR" />
+        <option value="MRMR" />
         <option value="package:mine " />
+        <option value="package:mine MRMR" />
         <option value="pl.novelpay.ntmsagent" />
         <option value="pl.novelpay." />
         <option value="ASM" />
         <option value="package:mine | pl.pep.mngapp" />
         <option value="ISO" />
-        <option value="MRMR" />
         <option value="IPC" />
         <option value="API access" />
         <option value="package:mine IODevi" />
