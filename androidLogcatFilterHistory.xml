@@ -1,11 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine  pinpad | MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  pinpad | MRMR" />
+        <option value="package:mine  pinpad" />
+        <option value="package:mine  MRMR" />
+        <option value="package:mine | MRMR" />
+        <option value="package:mine | agent" />
+        <option value="package:mine MRMR" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
-        <option value="package:mine MRMR" />
         <option value="package:mine R" />
         <option value="MRMR" />
         <option value="pl.novelpay.ntmsagent" />
@@ -18,11 +23,6 @@
         <option value="package:mine IODevi" />
         <option value="pl.pep.payapp.qa | Timeout" />
         <option value="pl.pep.payapp.qa" />
-        <option value="MRMR | PepBridge" />
-        <option value="package:mine  MRMR" />
-        <option value="package:mine  pinpad" />
-        <option value="MRMR " />
-        <option value="package:mine Q25Pinpad | MRMR | pin pad" />
       </list>
     </option>
   </component>
