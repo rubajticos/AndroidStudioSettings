@@ -4,8 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine MRMR" />
-        <option value="MRMR" />
         <option value="package:mine " />
+        <option value="package:mine R" />
+        <option value="MRMR" />
         <option value="pl.novelpay.ntmsagent" />
         <option value="pl.novelpay." />
         <option value="ASM" />
@@ -22,7 +23,6 @@
         <option value="MRMR " />
         <option value="package:mine Q25Pinpad | MRMR | pin pad" />
         <option value="package:mine consumer" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
