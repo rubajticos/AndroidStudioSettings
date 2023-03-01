@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MRMR" />
+        <option value="package:mine level:error " />
         <option value="package:mine " />
+        <option value="package:mine MRMR" />
         <option value="package:mine R" />
         <option value="MRMR" />
         <option value="pl.novelpay.ntmsagent" />
@@ -22,7 +23,6 @@
         <option value="package:mine  pinpad" />
         <option value="MRMR " />
         <option value="package:mine Q25Pinpad | MRMR | pin pad" />
-        <option value="package:mine consumer" />
       </list>
     </option>
   </component>
