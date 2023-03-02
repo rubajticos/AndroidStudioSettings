@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  pinpad | MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine  Type of" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  Type of" />
+        <option value="package:mine  Type of message" />
         <option value="package:mine  pinpad | MRMR" />
+        <option value="pl.novelpay" />
+        <option value="package:mine  " />
         <option value="package:mine  pinpad" />
         <option value="package:mine  MRMR" />
         <option value="package:mine | MRMR" />
@@ -19,10 +23,6 @@
         <option value="package:mine | pl.pep.mngapp" />
         <option value="ISO" />
         <option value="IPC" />
-        <option value="API access" />
-        <option value="package:mine IODevi" />
-        <option value="pl.pep.payapp.qa | Timeout" />
-        <option value="pl.pep.payapp.qa" />
       </list>
     </option>
   </component>
