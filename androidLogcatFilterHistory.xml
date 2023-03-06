@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  MRMR" />
         <option value="package:mine  " />
         <option value="package:mine  Type of" />
         <option value="package:mine  Type of message" />
         <option value="package:mine  pinpad | MRMR" />
         <option value="pl.novelpay" />
         <option value="package:mine  pinpad" />
-        <option value="package:mine  MRMR" />
         <option value="package:mine | MRMR" />
         <option value="package:mine | agent" />
         <option value="package:mine MRMR" />
