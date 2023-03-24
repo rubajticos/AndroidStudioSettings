@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pinpad | MRMR" />
+    <option name="mostRecentlyUsed" value="frames" />
     <option name="nonFavorites">
       <list>
+        <option value="frames" />
+        <option value="davey! " />
+        <option value="davey!" />
+        <option value="=" />
         <option value="package:mine pinpad | MRMR" />
         <option value="package:mine pinpad" />
         <option value="package:mine PINPAD" />
@@ -19,10 +23,6 @@
         <option value="pl.novelpay" />
         <option value="package:mine  pinpad" />
         <option value="package:mine | MRMR" />
-        <option value="package:mine | agent" />
-        <option value="package:mine level:error " />
-        <option value="package:mine R" />
-        <option value="MRMR" />
       </list>
     </option>
   </component>
