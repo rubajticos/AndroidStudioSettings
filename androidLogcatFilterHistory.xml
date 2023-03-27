@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="frames!" />
+    <option name="mostRecentlyUsed" value="pinpad" />
     <option name="nonFavorites">
       <list>
+        <option value="pinpad" />
         <option value="frames!" />
         <option value="pl.payapp" />
         <option value="package:mine " />
@@ -10,7 +11,6 @@
         <option value="pl.pep.payapp | pinpad | frames!" />
         <option value="pl.pep.payapp | pinpad | Skip frames" />
         <option value="Update pinpad called" />
-        <option value="pinpad" />
         <option value="pl.pep.payapp skipped" />
         <option value="package:mine pinpad | MRMR" />
         <option value="frames" />
