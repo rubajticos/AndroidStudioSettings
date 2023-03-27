@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="frames!" />
+        <option value="pl.payapp" />
+        <option value="package:mine " />
         <option value="pinpad | frames!" />
         <option value="pl.pep.payapp | pinpad | frames!" />
         <option value="pl.pep.payapp | pinpad | Skip frames" />
@@ -19,10 +21,8 @@
         <option value="package:mine PINPAD" />
         <option value="package:mine PINPAD_UPDATE" />
         <option value="package:mine Q25PinPadA" />
-        <option value="package:mine " />
         <option value="package:mine MRMR" />
         <option value="package:mine ntms" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
