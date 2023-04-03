@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine MRMR" />
         <option value="package=:pl.pep.payapp.qa  frame" />
@@ -21,7 +23,6 @@
         <option value="package:mine pinpad" />
         <option value="package:mine PINPAD" />
         <option value="package:mine PINPAD_UPDATE" />
-        <option value="package:mine Q25PinPadA" />
       </list>
     </option>
   </component>
