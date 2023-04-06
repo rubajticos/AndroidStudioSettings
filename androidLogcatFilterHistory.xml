@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ISO | Connection" />
+    <option name="mostRecentlyUsed" value="package:mine pinpad " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine pinpad " />
+        <option value="package:mine pinpad | Connection" />
         <option value="package:mine ISO | Connection" />
         <option value="package:mine MRMR" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="davey! " />
         <option value="davey!" />
         <option value="=" />
-        <option value="package:mine pinpad" />
-        <option value="package:mine PINPAD" />
       </list>
     </option>
   </component>
