@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pinpad " />
+    <option name="mostRecentlyUsed" value="choreo" />
     <option name="nonFavorites">
       <list>
+        <option value="choreo" />
         <option value="package:mine pinpad " />
         <option value="payment" />
         <option value="package:mine pinpad | Connection" />
@@ -22,7 +23,6 @@
         <option value="pl.pep.payapp skipped" />
         <option value="package:mine pinpad | MRMR" />
         <option value="davey! " />
-        <option value="davey!" />
       </list>
     </option>
   </component>
