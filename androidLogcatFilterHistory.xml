@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine pinpad " />
+        <option value="payment" />
         <option value="package:mine pinpad | Connection" />
         <option value="package:mine ISO | Connection" />
         <option value="package:mine MRMR" />
@@ -22,7 +23,6 @@
         <option value="package:mine pinpad | MRMR" />
         <option value="davey! " />
         <option value="davey!" />
-        <option value="=" />
       </list>
     </option>
   </component>
