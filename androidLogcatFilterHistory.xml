@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Foreg" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Foreg" />
         <option value="package:mine " />
+        <option value="package:mine Foreg" />
         <option value="interfacesRestartAlarm" />
         <option value="interfacesRestartAlarm | Message received from application" />
         <option value="interfacesRestartAlarm | " />
