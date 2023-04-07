@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine | pl.pep.mngapp" />
         <option value="package:mine" />
         <option value="package:mine  testConnectionAlarm" />
         <option value="package:mine  " />
@@ -21,7 +22,6 @@
         <option value="frames" />
         <option value="pinpad" />
         <option value="frames!" />
-        <option value="pl.payapp" />
       </list>
     </option>
   </component>
