@@ -1,15 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="choreo" />
+    <option name="mostRecentlyUsed" value="package:mine Foreg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Foreg" />
+        <option value="package:mine " />
+        <option value="interfacesRestartAlarm" />
+        <option value="interfacesRestartAlarm | Message received from application" />
+        <option value="interfacesRestartAlarm | " />
         <option value="choreo" />
         <option value="package:mine pinpad " />
         <option value="payment" />
         <option value="package:mine pinpad | Connection" />
         <option value="package:mine ISO | Connection" />
         <option value="package:mine MRMR" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package=:pl.pep.payapp.qa  frame" />
         <option value="frames" />
@@ -19,10 +23,6 @@
         <option value="pinpad | frames!" />
         <option value="pl.pep.payapp | pinpad | frames!" />
         <option value="pl.pep.payapp | pinpad | Skip frames" />
-        <option value="Update pinpad called" />
-        <option value="pl.pep.payapp skipped" />
-        <option value="package:mine pinpad | MRMR" />
-        <option value="davey! " />
       </list>
     </option>
   </component>
