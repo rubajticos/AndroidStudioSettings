@@ -3,6 +3,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine  testConnectionAlarm" />
+        <option value="package:mine  " />
+        <option value="package:mine onReceive()" />
         <option value="package:mine Foreg" />
         <option value="interfacesRestartAlarm" />
         <option value="interfacesRestartAlarm | Message received from application" />
@@ -13,15 +17,11 @@
         <option value="package:mine pinpad | Connection" />
         <option value="package:mine ISO | Connection" />
         <option value="package:mine MRMR" />
-        <option value="package:mine" />
         <option value="package=:pl.pep.payapp.qa  frame" />
         <option value="frames" />
         <option value="pinpad" />
         <option value="frames!" />
         <option value="pl.payapp" />
-        <option value="pinpad | frames!" />
-        <option value="pl.pep.payapp | pinpad | frames!" />
-        <option value="pl.pep.payapp | pinpad | Skip frames" />
       </list>
     </option>
   </component>
