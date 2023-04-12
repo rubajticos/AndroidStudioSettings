@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="pinpad" />
+    <option name="mostRecentlyUsed" value="package:mine ECREFT.PROTOCOL" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ECREFT.PROTOCOL" />
+        <option value="package:mine handleConfirmationInputPacket" />
         <option value="pinpad" />
         <option value="package:mine " />
         <option value="package:mine | pl.pep.mngapp" />
@@ -21,8 +23,6 @@
         <option value="package:mine ISO | Connection" />
         <option value="package:mine MRMR" />
         <option value="package=:pl.pep.payapp.qa  frame" />
-        <option value="frames" />
-        <option value="frames!" />
       </list>
     </option>
   </component>
