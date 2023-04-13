@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine MRMR Current interface" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MRMR Current interface" />
         <option value="package:mine MRMR" />
         <option value="package:mine " />
         <option value="package:mine MRMR subscribe" />
@@ -22,7 +23,6 @@
         <option value="choreo" />
         <option value="package:mine pinpad " />
         <option value="payment" />
-        <option value="package:mine pinpad | Connection" />
       </list>
     </option>
   </component>
