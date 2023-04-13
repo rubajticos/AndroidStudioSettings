@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR subscribe" />
+    <option name="mostRecentlyUsed" value="package:mine MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MRMR subscribe" />
-        <option value="package:mine Showcase item: " />
         <option value="package:mine MRMR" />
         <option value="package:mine " />
+        <option value="package:mine MRMR subscribe" />
+        <option value="package:mine Showcase item: " />
         <option value="package:mine ECREFT.PROTOCOL" />
         <option value="package:mine handleConfirmationInputPacket" />
         <option value="pinpad" />
