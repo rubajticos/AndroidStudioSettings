@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR Secret | Subscr" />
+    <option name="mostRecentlyUsed" value="package:mine MRMRS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MRMRS" />
         <option value="package:mine MRMR Secret | Subscr" />
         <option value="package:mine MRMR Secret" />
         <option value="package:mine MRMR Current interface" />
@@ -22,7 +23,6 @@
         <option value="interfacesRestartAlarm" />
         <option value="interfacesRestartAlarm | Message received from application" />
         <option value="interfacesRestartAlarm | " />
-        <option value="choreo" />
       </list>
     </option>
   </component>
