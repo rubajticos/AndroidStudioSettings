@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  &amp; (tag:IPP_GL_CommUsbHost | message:MRMR) " />
+    <option name="mostRecentlyUsed" value="(tag:IPP_GL_CommUsbHost | message:MRMR) " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ECREFT" />
+        <option value="(tag:IPP_GL_CommUsbHost | message:MRMR) " />
         <option value="package:mine  &amp; (tag:IPP_GL_CommUsbHost | message:MRMR) " />
+        <option value="package:mine ECREFT" />
         <option value="package:mine " />
         <option value="mngapp" />
         <option value="package:mine MRMR" />
@@ -22,7 +23,6 @@
         <option value="package:mine  testConnectionAlarm" />
         <option value="package:mine  " />
         <option value="package:mine onReceive()" />
-        <option value="package:mine Foreg" />
       </list>
     </option>
   </component>
