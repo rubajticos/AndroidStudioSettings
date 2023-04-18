@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="(tag:IPP_GL_CommUsbHost | message:MRMR) " />
+        <option value="message:MRMR" />
         <option value="package:mine  &amp; (tag:IPP_GL_CommUsbHost | message:MRMR) " />
         <option value="package:mine ECREFT" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine  testConnectionAlarm" />
         <option value="package:mine  " />
-        <option value="package:mine onReceive()" />
       </list>
     </option>
   </component>
