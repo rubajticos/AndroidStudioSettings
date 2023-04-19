@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine message:LAN" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:LAN" />
         <option value="package:mine " />
         <option value="ntmsagent" />
         <option value="(tag:IPP_GL_CommUsbHost | message:MRMR) " />
@@ -21,7 +23,6 @@
         <option value="pinpad" />
         <option value="package:mine | pl.pep.mngapp" />
         <option value="package:mine" />
-        <option value="package:mine  testConnectionAlarm" />
       </list>
     </option>
   </component>
