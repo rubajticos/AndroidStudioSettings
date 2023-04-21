@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad" />
+        <option value="tag:IPP_GL_CommUsbHost" />
+        <option value="package" />
         <option value="package:mine " />
         <option value="package:mine message:MRMR" />
         <option value="package:mine message:LAN" />
@@ -19,9 +23,6 @@
         <option value="package:mine MRMR subscribe" />
         <option value="package:mine Showcase item: " />
         <option value="package:mine ECREFT.PROTOCOL" />
-        <option value="package:mine handleConfirmationInputPacket" />
-        <option value="pinpad" />
-        <option value="package:mine | pl.pep.mngapp" />
       </list>
     </option>
   </component>
