@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  message:MRMR" />
         <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad" />
         <option value="tag:IPP_GL_CommUsbHost" />
@@ -22,7 +23,6 @@
         <option value="package:mine MRMR Secret" />
         <option value="package:mine MRMR Current interface" />
         <option value="package:mine MRMR subscribe" />
-        <option value="package:mine Showcase item: " />
       </list>
     </option>
   </component>
