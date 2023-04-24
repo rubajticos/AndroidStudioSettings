@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="message:MRMR" />
+        <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad | message:MRMR" />
         <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad" />
         <option value="package:mine " />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:mine MRMR Secret | Subscr" />
         <option value="package:mine MRMR Secret" />
         <option value="package:mine MRMR Current interface" />
-        <option value="package:mine MRMR subscribe" />
       </list>
     </option>
   </component>
