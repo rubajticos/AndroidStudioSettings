@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:MRMR" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine message:MRMR" />
+        <option value="package:mine " />
         <option value="package:mine  " />
+        <option value="package:mine message:MRMR" />
         <option value="package:mine  message:MRMR" />
         <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad" />
         <option value="tag:IPP_GL_CommUsbHost" />
         <option value="package" />
-        <option value="package:mine " />
         <option value="package:mine message:LAN" />
         <option value="ntmsagent" />
         <option value="(tag:IPP_GL_CommUsbHost | message:MRMR) " />
