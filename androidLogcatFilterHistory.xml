@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MRMR" />
+    <option name="mostRecentlyUsed" value="package:pl.rubajticos.firecrews message:Padd" />
     <option name="nonFavorites">
       <list>
+        <option value="package:pl.rubajticos.firecrews message:Padd" />
+        <option value="package:pl.rubajticos.firecrews me" />
+        <option value="package:pl.rubajticos.firecrews" />
+        <option value="package:pl.rubajticos.firecrews message:MRMR" />
         <option value="package:mine MRMR" />
         <option value="package:mine ntms" />
         <option value="package:mine " />
@@ -19,10 +23,6 @@
         <option value="package:mine R" />
         <option value="MRMR" />
         <option value="pl.novelpay.ntmsagent" />
-        <option value="pl.novelpay." />
-        <option value="ASM" />
-        <option value="package:mine | pl.pep.mngapp" />
-        <option value="ISO" />
       </list>
     </option>
   </component>
