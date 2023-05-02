@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:pl.rubajticos.firecrews message:Padd" />
+    <option name="mostRecentlyUsed" value="(package:mine &amp; ( message:MRMR | message:IPC | message:battery | message:Error | message:getBatteryStatus))" />
     <option name="nonFavorites">
       <list>
+        <option value="(package:mine &amp; ( message:MRMR | message:IPC | message:battery | message:Error | message:getBatteryStatus))" />
+        <option value="(package:mine &amp; ( message:MRMR | message:IPC | message:battery | message:Error| message:IPC getBatteryStatus))" />
+        <option value="(package:mine &amp; ( message:MRMR | message:IPC | message:battery | message:Error))" />
+        <option value="(package:mine &amp; ( message:MRMR | message:IPC | message:battery))" />
+        <option value="(package:mine &amp; ( message:MRMR | message:IPC))" />
+        <option value="(package:mine &amp; ( message:MRMR | message:IPC)) | package:pl.pep.mngapp " />
+        <option value="(package:mine  message:MRMR) | package:pl.pep.mngapp " />
+        <option value="package:mine  message:MRMR" />
         <option value="package:pl.rubajticos.firecrews message:Padd" />
         <option value="package:pl.rubajticos.firecrews me" />
         <option value="package:pl.rubajticos.firecrews" />
@@ -15,14 +23,6 @@
         <option value="package:mine  Type of" />
         <option value="package:mine  Type of message" />
         <option value="package:mine  pinpad | MRMR" />
-        <option value="pl.novelpay" />
-        <option value="package:mine  pinpad" />
-        <option value="package:mine | MRMR" />
-        <option value="package:mine | agent" />
-        <option value="package:mine level:error " />
-        <option value="package:mine R" />
-        <option value="MRMR" />
-        <option value="pl.novelpay.ntmsagent" />
       </list>
     </option>
   </component>
