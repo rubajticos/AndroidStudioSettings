@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:pl.rubajticos.firecrews  tag:MRMR" />
+        <option value="package:pl.rubajticos.firecrews  t" />
         <option value="package:pl.rubajticos.firecrews &amp; message:MRMR" />
         <option value="package:mine " />
         <option value="package:mine &amp; (message:pinpad | message:MRMR | message:ipc)" />
@@ -22,7 +23,6 @@
         <option value="package:mine  MRMR" />
         <option value="package:mine  Type of" />
         <option value="package:mine  Type of message" />
-        <option value="package:mine  pinpad | MRMR" />
       </list>
     </option>
   </component>
