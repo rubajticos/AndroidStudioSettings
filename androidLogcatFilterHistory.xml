@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine | package:lunapp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine | package:lunapp" />
         <option value="package:mine message:MRMR" />
         <option value="package:pl.rubajticos.firecrews" />
         <option value="package:pl.rubajticos.firecrews message:MRMR" />
@@ -22,7 +23,6 @@
         <option value="package:mine | MRMR" />
         <option value="package:mine | agent" />
         <option value="package:mine level:error " />
-        <option value="package:mine R" />
       </list>
     </option>
   </component>
