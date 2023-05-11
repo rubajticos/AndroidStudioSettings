@@ -4,24 +4,13 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="1240324134" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-RF8RB2BRGSB-1Z4cmq._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <name value="PAX A80" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0822018251" />
-          </Key>
-        </key>
-        <name value="PAX A920" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
+        <name value="samsung SM-G780G" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
