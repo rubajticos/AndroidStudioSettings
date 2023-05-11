@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine | message:pinpad | message:rejected | message:verify | message:usb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine | message:pinpad | message:rejected | message:verify | message:usb" />
+        <option value="package:mine | message:pinpad | message:rejected | message:verify" />
         <option value="package:mine " />
         <option value="package:mine | package:payapp" />
         <option value="package:mine | pak" />
@@ -20,8 +23,6 @@
         <option value="package:pl.rubajticos.firecrews message:MRMR" />
         <option value="package:pl.rubajticos.firecrews " />
         <option value="package:pl.rubajticos.firecrews message:Padd" />
-        <option value="package:pl.rubajticos.firecrews me" />
-        <option value="package:mine MRMR" />
       </list>
     </option>
   </component>
