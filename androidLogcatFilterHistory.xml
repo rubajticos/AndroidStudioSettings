@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:MRMR | message:reboot" />
+    <option name="mostRecentlyUsed" value="message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="message:MRMR" />
         <option value="message:MRMR | message:reboot" />
         <option value="message:MRMR || message:reboot" />
-        <option value="message:MRMR" />
         <option value="package:mine message:Can't toast" />
         <option value="package:mine message:Switch to MOBILE" />
         <option value="package:mine message:MOBILE" />
