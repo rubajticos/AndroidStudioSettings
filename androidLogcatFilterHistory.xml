@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:Can't toast" />
+    <option name="mostRecentlyUsed" value="message:MRMR | message:reboot" />
     <option name="nonFavorites">
       <list>
+        <option value="message:MRMR | message:reboot" />
+        <option value="message:MRMR || message:reboot" />
+        <option value="message:MRMR" />
         <option value="package:mine message:Can't toast" />
         <option value="package:mine message:Switch to MOBILE" />
         <option value="package:mine message:MOBILE" />
@@ -20,9 +23,6 @@
         <option value="package:pl.rubajticos.firecrews" />
         <option value="package:pl.rubajticos.firecrews message:MRMR" />
         <option value="package:pl.rubajticos.firecrews " />
-        <option value="package:pl.rubajticos.firecrews message:Padd" />
-        <option value="package:pl.rubajticos.firecrews me" />
-        <option value="package:mine ntms" />
       </list>
     </option>
   </component>
