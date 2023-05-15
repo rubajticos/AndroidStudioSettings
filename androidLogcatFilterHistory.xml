@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="tag:IPP_GL_CommUsbHost " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="tag:IPP_GL_CommUsbHost " />
         <option value="message:" />
-        <option value="package:mine" />
         <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad | message:MRMR" />
         <option value="package:mine | message:pinpad | message:rejected | message:verify | message:usb" />
         <option value="package:pl.pep.payapp.qa " />
