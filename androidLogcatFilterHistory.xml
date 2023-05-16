@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:MRMR | message:pinpad | message:&quot;pin pad&quot;" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="message:MRMR | message:pinpad | message:&quot;pin pad&quot; | message:payapp" />
+        <option value="message:MRMR | message:pinpad | message:&quot;pin pad&quot; | " />
         <option value="message:MRMR | message:pinpad | message:&quot;pin pad&quot;" />
         <option value="message:MRMR | message:pinpad" />
-        <option value="package:mine" />
         <option value="tag:IPP_GL_CommUsbHost " />
         <option value="message:" />
         <option value="tag:IPP_GL_CommUsbHost | message:PinpadTest | message:pinpad | message:MRMR" />
@@ -21,8 +23,6 @@
         <option value="package:mine MRMR" />
         <option value="package:pl.rubajticos.firecrews  message:MRMR" />
         <option value="package:pl.rubajticos.firecrews  tag:MRMR" />
-        <option value="package:pl.rubajticos.firecrews  t" />
-        <option value="package:pl.rubajticos.firecrews &amp; message:MRMR" />
       </list>
     </option>
   </component>
