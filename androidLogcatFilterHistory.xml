@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine restart inter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine restart inter" />
+        <option value="package:mine " />
         <option value="message:MRMR" />
         <option value="message:MRMR | package:mine " />
         <option value="message:MRMR | message:pinpad | message:&quot;pin pad&quot; " />
@@ -21,8 +23,6 @@
         <option value="package:mine message:Can't toast" />
         <option value="package:mine message:Switch to MOBILE" />
         <option value="package:mine message:MOBILE" />
-        <option value="package:mine " />
-        <option value="package:mine MRMR" />
       </list>
     </option>
   </component>
