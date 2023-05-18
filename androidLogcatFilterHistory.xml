@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine message:&quot;Connection state&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:&quot;Connection state&quot;" />
         <option value="package:mine " />
         <option value="package:mine restart inter" />
         <option value="message:MRMR" />
@@ -21,7 +23,6 @@
         <option value="message:MRMR || message:reboot" />
         <option value="package:mine message:Can't toast" />
         <option value="package:mine message:Switch to MOBILE" />
-        <option value="package:mine message:MOBILE" />
       </list>
     </option>
   </component>
