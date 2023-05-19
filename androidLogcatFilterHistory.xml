@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:pl.pep.payapp.qa" />
+    <option name="mostRecentlyUsed" value="package:mine message:&quot;Timeou&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:&quot;Timeou&quot;" />
         <option value="package:pl.pep.payapp.qa" />
         <option value="package:mine message:pinpad" />
         <option value="package:mine message:&quot;Connection state&quot;" />
@@ -22,7 +23,6 @@
         <option value="package:mine | message:pinpad | message:rejected | message:verify | message:usb" />
         <option value="package:pl.pep.payapp.qa " />
         <option value="message:MRMR | message:reboot" />
-        <option value="message:MRMR || message:reboot" />
       </list>
     </option>
   </component>
