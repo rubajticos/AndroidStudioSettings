@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine message:MRMR" />
         <option value="package:pl.rubajticos.firecrews " />
         <option value="package:pl.rubajticos.firecrews message:MRMR" />
@@ -11,7 +11,6 @@
         <option value="package:pl.rubajticos.firecrews  tag:MRMR" />
         <option value="package:pl.rubajticos.firecrews  t" />
         <option value="package:pl.rubajticos.firecrews &amp; message:MRMR" />
-        <option value="package:mine " />
         <option value="package:mine &amp; (message:pinpad | message:MRMR | message:ipc)" />
         <option value="package:mine &amp;&amp; (message:pinpad | message:MRMR | message:ipc)" />
         <option value="package:mine &amp;&amp; (message:pinpad | message:MRMR)" />
