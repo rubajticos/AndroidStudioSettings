@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:pl.rubajticos.firecrews " />
+    <option name="mostRecentlyUsed" value="package:pl.rubajticos.firecrews message:MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:pl.rubajticos.firecrews " />
         <option value="package:pl.rubajticos.firecrews message:MRMR" />
+        <option value="package:pl.rubajticos.firecrews " />
         <option value="package:pl.rubajticos.firecrews" />
         <option value="package:pl.rubajticos.firecrews  message:MRMR" />
         <option value="package:pl.rubajticos.firecrews  tag:MRMR" />
