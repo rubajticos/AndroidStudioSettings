@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:&quot;Available interfaces&quot; | message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine message:&quot;PAX LAN interface&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:&quot;PAX LAN interface&quot;" />
         <option value="package:mine message:&quot;Available interfaces&quot; | message:MRMR" />
         <option value="package:mine message:&quot;Available interfaces&quot;" />
         <option value="package:mine message:&quot;for request&quot;" />
@@ -22,7 +23,6 @@
         <option value="package:pl.rubajticos.firecrews message:Padd" />
         <option value="package:pl.rubajticos.firecrews me" />
         <option value="package:mine MRMR" />
-        <option value="package:mine ntms" />
       </list>
     </option>
   </component>
