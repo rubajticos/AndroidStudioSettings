@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="message:MRMR" />
         <option value="package:mine " />
         <option value="package:mine message:&quot;PAX LAN interface&quot;" />
         <option value="package:mine message:&quot;Available interfaces&quot; | message:MRMR" />
@@ -21,7 +23,6 @@
         <option value="package:mine | package:lunapp" />
         <option value="package:pl.rubajticos.firecrews message:Padd" />
         <option value="package:pl.rubajticos.firecrews me" />
-        <option value="package:mine MRMR" />
       </list>
     </option>
   </component>
