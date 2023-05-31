@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine message:Configure" />
         <option value="message:MRMR" />
@@ -21,7 +23,6 @@
         <option value="package:mine &amp; (message:pinpad | message:MRMR | message:ipc)" />
         <option value="package:mine &amp;&amp; (message:pinpad | message:MRMR | message:ipc)" />
         <option value="package:mine &amp;&amp; (message:pinpad | message:MRMR)" />
-        <option value="package:mine | package:lunapp" />
       </list>
     </option>
   </component>
