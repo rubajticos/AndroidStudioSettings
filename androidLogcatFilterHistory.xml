@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine message:Configure" />
         <option value="message:MRMR" />
         <option value="package:pl.pep.payapp.qa" />
-        <option value="package:mine " />
         <option value="package:mine message:&quot;PAX LAN interface&quot;" />
         <option value="package:mine message:&quot;Available interfaces&quot; | message:MRMR" />
         <option value="package:mine message:&quot;Available interfaces&quot;" />
@@ -22,7 +22,6 @@
         <option value="package:mine &amp;&amp; (message:pinpad | message:MRMR | message:ipc)" />
         <option value="package:mine &amp;&amp; (message:pinpad | message:MRMR)" />
         <option value="package:mine | package:lunapp" />
-        <option value="package:pl.rubajticos.firecrews message:Padd" />
       </list>
     </option>
   </component>
