@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:pl.pep message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:pl.pep " />
     <option name="nonFavorites">
       <list>
+        <option value="package:pl.pep " />
         <option value="package:pl.pep message:MRMR" />
         <option value="package:pl.pep" />
         <option value="package:mine | message:IPC" />
@@ -22,7 +23,6 @@
         <option value="package:pl.rubajticos.firecrews " />
         <option value="package:pl.rubajticos.firecrews message:MRMR" />
         <option value="package:pl.rubajticos.firecrews" />
-        <option value="package:pl.rubajticos.firecrews  message:MRMR" />
       </list>
     </option>
   </component>
