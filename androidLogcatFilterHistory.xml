@@ -3,8 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:pl.pep message:sale" />
         <option value="package:mine message:MRMR" />
+        <option value="package:pl.pep message:sale" />
         <option value="package:pl.pep" />
         <option value="package:pl.pep message:MRMR" />
         <option value="package:pl.pep " />
