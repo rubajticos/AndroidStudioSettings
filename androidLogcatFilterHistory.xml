@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:pl.pep message:sale" />
+    <option name="mostRecentlyUsed" value="tag:IPP_GL" />
     <option name="nonFavorites">
       <list>
-        <option value="package:pl.pep message:sale" />
+        <option value="tag:IPP_GL" />
+        <option value="package:mine " />
         <option value="package:mine message:MRMR" />
+        <option value="package:pl.pep message:sale" />
         <option value="package:pl.pep" />
         <option value="package:pl.pep message:MRMR" />
         <option value="package:pl.pep " />
         <option value="package:mine | message:IPC" />
         <option value="package:mine message:MRMR | message:&quot;Connection state&quot;" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine message:MRMR Apps state" />
         <option value="package:mine message:[ConnectionTester]" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:&quot;Available interfaces&quot;" />
         <option value="package:mine message:&quot;for request&quot;" />
         <option value="package:pl.rubajticos.firecrews " />
-        <option value="package:pl.rubajticos.firecrews message:MRMR" />
       </list>
     </option>
   </component>
