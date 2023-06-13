@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:IPP_GL" />
+    <option name="mostRecentlyUsed" value="package:mine message:pinpad" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:IPP_GL" />
+        <option value="package:mine message:pinpad" />
         <option value="package:mine " />
+        <option value="tag:IPP_GL" />
         <option value="package:mine message:MRMR" />
         <option value="package:pl.pep message:sale" />
         <option value="package:pl.pep" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:&quot;Available interfaces&quot; | message:MRMR" />
         <option value="package:mine message:&quot;Available interfaces&quot;" />
         <option value="package:mine message:&quot;for request&quot;" />
-        <option value="package:pl.rubajticos.firecrews " />
       </list>
     </option>
   </component>
