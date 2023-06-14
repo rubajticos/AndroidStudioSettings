@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:MRMR |  tag:PEPPROTO" />
+    <option name="mostRecentlyUsed" value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
         <option value="package:mine message:MRMR |  tag:PEPPROTO" />
         <option value="package:mine message:MRMR| |  tag:PEPPROTO" />
         <option value="package:mine message:MRMR tag:PEPPROTO" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:Configure" />
         <option value="message:MRMR" />
         <option value="package:pl.pep.payapp.qa" />
-        <option value="package:mine message:&quot;PAX LAN interface&quot;" />
       </list>
     </option>
   </component>
