@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:pinpad" />
+    <option name="mostRecentlyUsed" value="package:mine message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:MRMR" />
         <option value="package:mine message:pinpad" />
         <option value="package:mine " />
         <option value="tag:IPP_GL" />
-        <option value="package:mine message:MRMR" />
         <option value="package:pl.pep message:sale" />
         <option value="package:pl.pep" />
         <option value="package:pl.pep message:MRMR" />
