@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MRMR" />
+    <option name="mostRecentlyUsed" value="tag:MRMR | message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MRMR | message:MRMR" />
         <option value="tag:MRMR" />
         <option value="message:MRMR" />
         <option value="message:MRMR | tag:BT" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:MRMR | message:&quot;Connection state&quot;" />
         <option value="package:mine" />
         <option value="package:mine message:MRMR Apps state" />
-        <option value="package:mine message:[ConnectionTester]" />
       </list>
     </option>
   </component>
