@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
+        <option value="package:mine " />
         <option value="message:MRMR" />
         <option value="tag:MRMR | message:MRMR" />
         <option value="tag:MRMR" />
@@ -13,7 +14,6 @@
         <option value="package:mine message:MRMR tag:PEPPROTO" />
         <option value="package:mine message:MRMR" />
         <option value="package:mine message:pinpad" />
-        <option value="package:mine " />
         <option value="tag:IPP_GL" />
         <option value="package:pl.pep message:sale" />
         <option value="package:pl.pep" />
