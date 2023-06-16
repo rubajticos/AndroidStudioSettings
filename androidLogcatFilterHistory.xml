@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
         <option value="message:MRMR" />
         <option value="tag:MRMR | message:MRMR" />
         <option value="tag:MRMR" />
         <option value="message:MRMR | tag:BT" />
-        <option value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
         <option value="package:mine message:MRMR |  tag:PEPPROTO" />
         <option value="package:mine message:MRMR| |  tag:PEPPROTO" />
         <option value="package:mine message:MRMR tag:PEPPROTO" />
