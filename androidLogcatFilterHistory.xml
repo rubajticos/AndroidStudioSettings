@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="message:MRMR" />
     <option name="nonFavorites">
       <list>
+        <option value="message:MRMR" />
+        <option value="me" />
         <option value="package:mine" />
         <option value="mes" />
-        <option value="message:MRMR" />
         <option value="tag:MRMR | message:MRMR" />
         <option value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:pl.pep message:MRMR" />
         <option value="package:pl.pep " />
         <option value="package:mine | message:IPC" />
-        <option value="package:mine message:MRMR | message:&quot;Connection state&quot;" />
       </list>
     </option>
   </component>
