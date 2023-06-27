@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  message:MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  message:MRMR" />
         <option value="package:mine " />
+        <option value="package:mine  message:MRMR" />
         <option value="message:&quot;PinPadConnector: start of pair flow.&quot;" />
         <option value="level:error " />
         <option value="tag:PEPPROTO" />
