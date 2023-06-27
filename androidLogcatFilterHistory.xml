@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:PEPPROTO" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PEPPROTO" />
+        <option value="tag" />
         <option value="level:error " />
         <option value="message:MRMR" />
         <option value="me" />
@@ -21,8 +23,6 @@
         <option value="tag:IPP_GL" />
         <option value="package:pl.pep message:sale" />
         <option value="package:pl.pep" />
-        <option value="package:pl.pep message:MRMR" />
-        <option value="package:pl.pep " />
       </list>
     </option>
   </component>
