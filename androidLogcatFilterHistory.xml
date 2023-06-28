@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
+        <option value="package:mine &amp;&amp; (message:MRMR | tag:PEPPROTO ) " />
+        <option value="package:mine &amp;&amp; (message:MRMR | ) " />
         <option value="package:mine " />
         <option value="package:pl.novelpay.ntmsagent" />
         <option value="notify" />
@@ -19,9 +23,6 @@
         <option value="tag:MRMR" />
         <option value="message:MRMR | tag:BT" />
         <option value="package:mine message:MRMR |  tag:PEPPROTO" />
-        <option value="package:mine message:MRMR| |  tag:PEPPROTO" />
-        <option value="package:mine message:MRMR tag:PEPPROTO" />
-        <option value="package:mine message:MRMR" />
       </list>
     </option>
   </component>
