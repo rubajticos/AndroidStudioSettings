@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:pl.novelpay.ntmsagent" />
+        <option value="notify" />
         <option value="package:mine  message:MRMR" />
         <option value="message:&quot;PinPadConnector: start of pair flow.&quot;" />
         <option value="level:error " />
@@ -20,8 +22,6 @@
         <option value="package:mine message:MRMR| |  tag:PEPPROTO" />
         <option value="package:mine message:MRMR tag:PEPPROTO" />
         <option value="package:mine message:MRMR" />
-        <option value="package:mine message:pinpad" />
-        <option value="tag:IPP_GL" />
       </list>
     </option>
   </component>
