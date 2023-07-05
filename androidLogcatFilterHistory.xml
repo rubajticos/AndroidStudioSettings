@@ -4,11 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
+        <option value="connection test" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
         <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
         <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;&quot;)" />
-        <option value="package:mine " />
         <option value="package:mine message:&quot;Configured WiFi networks&quot;" />
         <option value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
         <option value="tag:PEPPROTO" />
@@ -22,7 +23,6 @@
         <option value="tag" />
         <option value="message:MRMR" />
         <option value="me" />
-        <option value="mes" />
       </list>
     </option>
   </component>
