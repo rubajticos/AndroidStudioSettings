@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
         <option value="connection test" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
         <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
