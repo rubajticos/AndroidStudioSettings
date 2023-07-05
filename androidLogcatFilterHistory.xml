@@ -1,11 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
         <option value="package:mine" />
-        <option value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
+        <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
+        <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
+        <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;&quot;)" />
         <option value="package:mine " />
+        <option value="package:mine message:&quot;Configured WiFi networks&quot;" />
+        <option value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
         <option value="tag:PEPPROTO" />
         <option value="package:mine &amp;&amp; (message:MRMR | tag:PEPPROTO ) " />
         <option value="package:mine &amp;&amp; (message:MRMR | ) " />
@@ -18,11 +23,6 @@
         <option value="message:MRMR" />
         <option value="me" />
         <option value="mes" />
-        <option value="tag:MRMR | message:MRMR" />
-        <option value="package:mine message:MRMR |  tag:PEPPROTO | level:error " />
-        <option value="tag:MRMR" />
-        <option value="message:MRMR | tag:BT" />
-        <option value="package:mine message:MRMR |  tag:PEPPROTO" />
       </list>
     </option>
   </component>
