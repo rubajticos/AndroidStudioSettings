@@ -1,28 +1,27 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:pl.rubajticos.firecrews message:MRMR" />
     <option name="nonFavorites">
       <list>
-        <option value="package:pl.rubajticos.firecrews message:MRMR" />
-        <option value="package:pl.rubajticos.firecrews " />
-        <option value="package:mine message:pinpad" />
         <option value="package:mine " />
-        <option value="tag:IPP_GL" />
-        <option value="package:mine message:MRMR" />
-        <option value="package:pl.pep message:sale" />
-        <option value="package:pl.pep" />
-        <option value="package:pl.pep message:MRMR" />
-        <option value="package:pl.pep " />
-        <option value="package:mine | message:IPC" />
-        <option value="package:mine message:MRMR | message:&quot;Connection state&quot;" />
+        <option value="package:mine (message:pinpad | message:MRMR | message:idle)" />
         <option value="package:mine" />
-        <option value="package:mine message:MRMR Apps state" />
-        <option value="package:mine message:[ConnectionTester]" />
-        <option value="package:mine message:Configure" />
-        <option value="message:MRMR" />
-        <option value="package:pl.pep.payapp.qa" />
-        <option value="package:mine message:&quot;PAX LAN interface&quot;" />
-        <option value="package:mine message:&quot;Available interfaces&quot; | message:MRMR" />
+        <option value="package:mine message:MRMR" />
+        <option value="package:mine message:&quot;Device has&quot;" />
+        <option value="package:mine message:&quot;Connection test success? false&quot;" />
+        <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
+        <option value="connection test" />
+        <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
+        <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
+        <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;&quot;)" />
+        <option value="package:mine message:&quot;Configured WiFi networks&quot;" />
+        <option value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
+        <option value="tag:PEPPROTO" />
+        <option value="package:mine &amp;&amp; (message:MRMR | tag:PEPPROTO ) " />
+        <option value="package:mine &amp;&amp; (message:MRMR | ) " />
+        <option value="package:pl.novelpay.ntmsagent" />
+        <option value="notify" />
+        <option value="package:mine  message:MRMR" />
+        <option value="message:&quot;PinPadConnector: start of pair flow.&quot;" />
       </list>
     </option>
   </component>
