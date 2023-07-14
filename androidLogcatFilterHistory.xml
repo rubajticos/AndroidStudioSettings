@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:MRMR" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine message:MRMR" />
         <option value="package:mine " />
+        <option value="pakc" />
+        <option value="package:mine message:MRMR" />
         <option value="package:mine (message:pinpad | message:MRMR | message:idle)" />
         <option value="package:mine" />
         <option value="package:mine message:&quot;Device has&quot;" />
@@ -22,7 +23,6 @@
         <option value="package:pl.novelpay.ntmsagent" />
         <option value="notify" />
         <option value="package:mine  message:MRMR" />
-        <option value="message:&quot;PinPadConnector: start of pair flow.&quot;" />
       </list>
     </option>
   </component>
