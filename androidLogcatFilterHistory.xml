@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine message:MRMR" />
         <option value="tag:ECREFT.PROTOCOL | message:MRMR" />
         <option value="tag:ECREFT.PROTOCOL" />
-        <option value="package:mine " />
         <option value="pakc" />
         <option value="package:mine (message:pinpad | message:MRMR | message:idle)" />
         <option value="package:mine" />
