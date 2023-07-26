@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine message:MRMR" />
+        <option value="package:mine message:MRMR | level:error " />
         <option value="package:mine " />
         <option value="tag:ECREFT.PROTOCOL | message:MRMR" />
         <option value="tag:ECREFT.PROTOCOL" />
@@ -22,7 +23,6 @@
         <option value="tag:PEPPROTO" />
         <option value="package:mine &amp;&amp; (message:MRMR | tag:PEPPROTO ) " />
         <option value="package:mine &amp;&amp; (message:MRMR | ) " />
-        <option value="package:pl.novelpay.ntmsagent" />
       </list>
     </option>
   </component>
