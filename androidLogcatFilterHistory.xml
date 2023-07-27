@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="message:install" />
     <option name="nonFavorites">
       <list>
-        <option value="message:install" />
         <option value="package:mine message:d" />
+        <option value="message:install" />
         <option value="package:mine message" />
         <option value="package:mine message:MRMR" />
         <option value="package:mine message:MRMR | level:error " />
