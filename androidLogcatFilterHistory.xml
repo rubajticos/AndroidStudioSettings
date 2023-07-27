@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:d" />
+    <option name="mostRecentlyUsed" value="message:install" />
     <option name="nonFavorites">
       <list>
+        <option value="message:install" />
         <option value="package:mine message:d" />
         <option value="package:mine message" />
         <option value="package:mine message:MRMR" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;&quot;)" />
         <option value="package:mine message:&quot;Configured WiFi networks&quot;" />
         <option value="package:mine &amp; (message:MRMR | tag:PEPPROTO ) " />
-        <option value="tag:PEPPROTO" />
       </list>
     </option>
   </component>
