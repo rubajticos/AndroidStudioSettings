@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:PersistentStorageImpl | message:MRMR" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PersistentStorageImpl | message:MRMR | tag:CommandProcessor | tag:PEPPROTO" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ECREFT.PROTOCOL | message:MRMR | tag" />
+        <option value="package:mine tag:PersistentStorageImpl | message:MRMR | tag:CommandProcessor | tag:PEPPROTO" />
+        <option value="package:mine tag:PersistentStorageImpl | message:MRMR | tag:CommandProcessor" />
         <option value="package:mine tag:PersistentStorageImpl | message:MRMR" />
         <option value="package:mine tag:PersistentStorageImpl" />
         <option value="package:mine message:d" />
@@ -20,9 +23,6 @@
         <option value="package:mine message:&quot;Connection test success? false&quot;" />
         <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot; | message:ConnectionTester)" />
         <option value="connection test" />
-        <option value="package:mine &amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
-        <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;Configured WiFi&quot;)" />
-        <option value="package:mine &amp;&amp; (message:&quot;[AUTO CONNECTION TEST]&quot; | message:&quot;&quot;)" />
       </list>
     </option>
   </component>
